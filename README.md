@@ -55,12 +55,11 @@
 <h2>Github stats :bar_chart:</h2>
 
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=roy7077&count_private=true&show_icons=true&theme=react" /> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=roy7077&theme=monokai" alt="GitHub Streak" /></a>
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=roy7077&count_private=true&show_icons=true&theme=react" /> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=roy7077&theme=react&card_width=425" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
   <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=roy7077&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=roy7077&theme=monokai&card_width=250" alt="GitHub Streak" /></a>
 </p>
 
 
