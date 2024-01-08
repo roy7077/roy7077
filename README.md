@@ -19,7 +19,7 @@
 <h2>Social Info :</h2>
 
 <div id="badges">
-    <a href="[https://www.linkedin.com/in/theajayrawat/](https://www.linkedin.com/in/sagar-ray-3a6297225/)">
+    <a href="https://www.linkedin.com/in/sagar-ray-3a6297225/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=raysagar807@gmail.com">
@@ -32,10 +32,10 @@
 <h2>Coding Platform :</h2>
 
 <div id="badges">
-    <a href="[https://leetcode.com/theajayrawat/](https://leetcode.com/roy_707/)">
+    <a href="https://leetcode.com/theajayrawat/](https://leetcode.com/roy_707/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode Badge"/>
     </a>
-    <a href="[https://auth.geeksforgeeks.org/user/theajayrawat](https://auth.geeksforgeeks.org/user/roy_707)">
+    <a href="https://auth.geeksforgeeks.org/user/theajayrawat](https://auth.geeksforgeeks.org/user/roy_707">
     <img src="https://img.shields.io/badge/GeeksForGeeks-darkgreen?style=for-the-badge&logo=GeeksForGeeks&logoColor=white" alt="GeeksForGeeks Badge"/>
     </a>
 </div>
