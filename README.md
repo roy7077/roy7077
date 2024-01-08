@@ -55,7 +55,7 @@
 <h2>Github stats :bar_chart:</h2>
 
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=roy7077&count_private=true&show_icons=true&theme=react" /> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=roy7077&theme=react&card_width=425" alt="GitHub Streak" /></a>
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=roy7077&count_private=true&show_icons=true&theme=react" /> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=roy7077&theme=react&card_width=425&card_height=194" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
